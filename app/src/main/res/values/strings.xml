@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QUIZero</string>
+    <string name="nome">Nome</string>
+    <string name="digite_nome">Olá, digite seu nome :)</string>
+</resources>
